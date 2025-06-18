@@ -53,7 +53,8 @@ skills_job_dim: Bridge table mapping job IDs to skill IDs
 
 
 
-**Conclusions**
+**CONCLUSION**
+
 Insights
 From the analysis, several general insights emerged:
 Top-Paying Data Analyst Jobs: The highest-paying jobs for data analysts that allow remote work offer a wide range of salaries, the highest at $650,000!
