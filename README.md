@@ -35,8 +35,17 @@ skills_job_dim: Bridge table mapping job IDs to skill IDs
 ![skills_for_top_paying](https://github.com/user-attachments/assets/2b24a841-1704-4cf1-8061-acfccc9a2a78)
 
 
+
+
+
+
+
 3 . Demanding Skills (Top 5)
 ![image](https://github.com/user-attachments/assets/16ea6a4f-a600-4c86-81d1-54faf58c8a1a)
+
+
+
+
 
 
 4 . Skills based on salary (Top 5)
