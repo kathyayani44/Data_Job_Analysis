@@ -11,3 +11,6 @@ WHERE
 GROUP BY skills
 ORDER BY avg_salary DESC
 LIMIT 10;
+/* 
+Result : High Demand for Big Data & ML Skills : Pyspark ,Bitbucket ,couchbase ...
+*/
