@@ -11,4 +11,7 @@ WHERE
 ORDER BY
     salary_year_avg DESC
 LIMIT 10;
-/* Highest job paying role is Data Analyst of avg salary 650000 by Mantys Company */
+/*
+Result : 
+Highest job paying role is Data Analyst of avg salary 650000 by Mantys Company 
+*/
