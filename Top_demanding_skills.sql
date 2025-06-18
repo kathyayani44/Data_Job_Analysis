@@ -9,3 +9,4 @@ WHERE
 GROUP BY skills
 ORDER BY demand_count DESC
 LIMIT 10;
+/* Result : SQL and Excel remain fundamental, emphasizing the need for strong foundational skills and other programming / visualization tools like Python , Tableau, Power BI
